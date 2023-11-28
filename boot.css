@@ -1,0 +1,50 @@
+
+
+    
+.inp{
+    margin-left:150px;
+    width: 250px;
+    height: 30px;
+    position: relative;
+    margin-top:8px;
+    border: 0px solid ;
+    background-color: #fcf1f1;
+    position: relative;
+    padding: 10px; 
+}
+.imgicon{
+    width: 28px;
+    height:auto;
+    margin-left:80px; 
+    margin-top:8px;
+    position: absolute;
+}
+.home{
+    width: 30px;
+    height: auto;
+    float: right;
+    margin-right: 750px;
+    margin-top: 5px;
+}
+.mynet{
+   
+    width: 52px;
+    height: auto;
+    float: right;
+    margin-right:670px;
+    margin-top:-44px; 
+}
+.job{
+    width: 30px;
+    height: auto;
+    float: right;
+    margin-right:-120px;
+    margin-top:-33px;
+}
+.mess{
+    width: 30px;
+    height: auto;
+    float: right;
+    margin-right:-190px;
+    margin-top: -32px;
+}
